@@ -26,7 +26,7 @@ const List<Color> _defaultColors = [
   Colors.brown,
   Colors.grey,
   Colors.blueGrey,
-  Colors.black,
+
 ];
 
 typedef PickerLayoutBuilder = Widget Function(

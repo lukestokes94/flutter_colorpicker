@@ -42,7 +42,7 @@ class _MaterialPickerState extends State<MaterialPicker> {
     [Colors.brown],
     [Colors.grey],
     [Colors.blueGrey],
-    [Colors.black],
+
   ];
 
   List<Color> _currentColor = [Colors.red, Colors.redAccent];
